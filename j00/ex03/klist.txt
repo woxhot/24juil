@@ -1,0 +1,5 @@
+Credentials cache: API:1854AACC-D0AC-4533-805F-CE2E697BD01B
+        Principal: rvieira@42.FR
+
+  Issued                Expires               Principal
+Jul  3 14:44:47 2017  Jul 10 14:44:47 2017  krbtgt/42.FR@42.FR
